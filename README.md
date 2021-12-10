@@ -15,3 +15,5 @@ Realizando migrations
 ```bash
 docker-compose exec web python manage.py makemigrations && docker-compose exec web python manage.py migrate
 ```
+
+### :pushpin: [Aplicação no Heroku](https://fusion-icc.herokuapp.com/)
